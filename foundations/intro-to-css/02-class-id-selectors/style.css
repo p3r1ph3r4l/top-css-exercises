@@ -1,0 +1,19 @@
+.redbg {
+    background-color: rgb(255, 120, 120);
+    font-family: Verdana, "DejaVu Sans", sens-serif;
+}
+
+.cooler {
+    font-size: 24px
+}
+
+#id1 {
+    color: hsl(220, 100%, 50%);
+    font-size: 36px
+}
+
+#id2 {
+    background-color: #00ff00;
+    font-weight: bold;
+}
+
